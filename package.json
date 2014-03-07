@@ -5,7 +5,7 @@
   "main": "Gruntfile.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shoppinpal/ng-mobile-menu.git"
+    "url": "https://github.com/brentrockwood/ng-mobile-menu.git"
   },
   "keywords": [
     "mobile",
@@ -14,7 +14,8 @@
     "navigation"
   ],
   "author": {
-    "name": "Jeff French"
+    "name": "Jeff French",
+    "name": "Brent Rockwood"
   },
   "licenses": [
     {
