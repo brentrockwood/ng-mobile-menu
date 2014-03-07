@@ -1,4 +1,4 @@
-angular.module('shoppinpal.mobile-menu', [])
+angular.module('ng-mobile-menu', [])
     .run(['$rootScope', '$spMenu', function($rootScope, $spMenu){
         $rootScope.$spMenu = $spMenu;
     }])
